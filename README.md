@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Animesh Biswas
+- 👀 I’m interested in learn programming languages sush as python and java
+- 🌱 I’m currently eager at learning python basics
+- 💞️ I’m looking to collaborate on my personal python projects
+- 📫 You can reach me at email - animeshb2004@gmail.com
